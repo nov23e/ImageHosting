@@ -5,7 +5,7 @@ https://pic.monose.eu.org/路径
 
 https://cdn.jsdelivr.net/gh/iswxp/ImageHosting@main/website/website/favicon.png
 
-教程：![Github+jsDelivr为脚本/图片等静态文件加速的全球CDN](https://51.ruyo.net/15149.html)
+教程：[Github+jsDelivr为脚本/图片等静态文件加速的全球CDN](https://51.ruyo.net/15149.html)
 
 # WordPress携手Jetpack免费提供图片CDN加速，永久缓存！
 
@@ -13,7 +13,7 @@ Jetpack使用路径
 
 https://i0.wp.com/pic.monose.eu.org/simplenote/2023/10/photo_2023-10-27_16-23-34.jpg
 
-教程：![WordPress携手Jetpack免费提供图片CDN加速，永久缓存！](https://51.ruyo.net/18486.html)
+教程：[WordPress携手Jetpack免费提供图片CDN加速，永久缓存！](https://51.ruyo.net/18486.html)
 
 
 # 预览
