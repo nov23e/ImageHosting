@@ -1,4 +1,5 @@
-﻿# 使用
+﻿# 本地使用
+ 
 https://pic.monose.eu.org/路径
 
 # jsdelivr使用路径
@@ -11,7 +12,7 @@ https://cdn.jsdelivr.net/gh/iswxp/ImageHosting@main/website/website/favicon.png
 
 Jetpack使用路径
 
-https://i0.wp.com/pic.monose.eu.org/simplenote/2023/10/photo_2023-10-27_16-23-34.jpg
+https://i0.wp.com/pic.monose.eu.org/website/website/favicon.png
 
 教程：[WordPress携手Jetpack免费提供图片CDN加速，永久缓存！](https://51.ruyo.net/18486.html)
 
