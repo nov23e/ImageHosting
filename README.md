@@ -4,7 +4,7 @@ https://pic.monose.eu.org/路径
 
 # jsdelivr使用路径
 
-https://cdn.jsdelivr.net/gh/iswxp/ImageHosting@main/website/website/favicon.png
+https://cdn.jsdelivr.net/gh/for05/ImageHosting@main/website/website/favicon.png
 
 教程：[Github+jsDelivr为脚本/图片等静态文件加速的全球CDN](https://51.ruyo.net/15149.html)
 
