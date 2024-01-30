@@ -2,7 +2,7 @@
  
  # 本地使用
  
-https://cypic.netlify.app/路径
+https://cyimg.netlify.app/路径
 
 # jsdelivr使用路径
 
